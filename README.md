@@ -31,7 +31,7 @@ I work on practical machine learning, data analytics, and automation projects us
 
 
 ###
-<h2 align="left">My hands-on experience spans:</h2> <br>
+<h2 align="left">🤹My hands-on experience spans:</h2> <br>
 <small>
 ✔ 97%-accurate autism detection (hybrid data balancing that outperformed SMOTE)<br>
 ✔ Alzheimer's predictor using multimodal speech data + custom DL architectures<br>
@@ -50,7 +50,7 @@ I sometimes visualize my to-do list as a SQL query (SELECT * FROM life WHERE sta
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tools and Technologies💻</h2>
 
 ###
 
