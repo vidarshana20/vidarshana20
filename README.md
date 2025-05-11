@@ -2,15 +2,35 @@
 Building practical ML and data engineering projects with Python, SQL, and cloud tools.
 
 
-<h1 align="left">Hello 👋 </h1>
+<h1 align="left">🎓 Education</h1>
+
+###
+
+<p align="left">
+<b>Master of Science: Data Science</b><br>
+University of Michigan-Dearborn,USA<br>
+GPA: 3.9/4.0
+</p>
+<p align="left">
+<b>Bachelor of Technology: Computer Science and Engineering(Artificial Intelligence and Machine Learning)</b><br>
+Sri Ramachandra Institte of Higher Education and Research,Chennai,India<br>
+GPA: 9.2/10 (Ranked in the top 5% of the university)
+</p>
+
+###
+<h1 align="left"> 👋Profile Summary </h1>
 
 ###
 
 <p align="left">I’m Vidarshana Govilesh, a Data Science graduate from UM-Dearborn with a background in AI & ML.
-I work on practical machine learning, data analytics, and automation projects using Python, SQL, and cloud tools.</p>
+I work on practical machine learning, data analytics, and automation projects using Python, SQL, and cloud tools.<br>
+💼 Experience includes internships in software development, data engineering, and analytics.<br>
+🛠️ Proficient in Python, SQL, Power BI, Tableau, Azure, AWS, and tools like PySpark and Docker.<br>
+📊 Passionate about building practical ML solutions and exploring real-world analytics problems.<br>
+🔍 Currently seeking opportunities to apply my skills in data-driven projects and contribute to innovative teams.</p>
+
 
 ###
-
 <h2 align="left">My hands-on experience spans:</h2> <br>
 <small>
 ✔ 97%-accurate autism detection (hybrid data balancing that outperformed SMOTE)<br>
