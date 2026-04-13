@@ -1,127 +1,116 @@
-# Vidarshana Govilesh
-Building practical ML and data engineering projects with Python, SQL, and cloud tools.
-
-
-<h1 align="left">🎓 Education</h1>
-
-###
+<h1 align="left">Hi, I'm Vidarshana Govilesh 👋</h1>
 
 <p align="left">
-<b>Master of Science: Data Science</b><br>
-University of Michigan-Dearborn,USA<br>
-GPA: 3.9/4.0
-</p>
-<p align="left">
-<b>Bachelor of Technology: Computer Science and Engineering(Artificial Intelligence and Machine Learning)</b><br>
-Sri Ramachandra Institte of Higher Education and Research,Chennai,India<br>
-GPA: 9.2/10 (Ranked in the top 5% of the university)
+Data Scientist with a background in AI/ML, building practical end-to-end data solutions with Python, SQL, and cloud platforms.
+Currently on OPT and actively seeking roles in Data Science, Data Analytics, and AI.
 </p>
 
-###
-<h1 align="left"> 👋Profile Summary </h1>
+---
 
-###
+<h2 align="left">🎓 Education</h2>
 
-<p align="left">I’m Vidarshana Govilesh, a Data Science graduate from UM-Dearborn with a background in AI & ML.
-I work on practical machine learning, data analytics, and automation projects using Python, SQL, and cloud tools.<br>
-💼 Experience includes internships in software development, data engineering, and analytics.<br>
-🛠️ Proficient in Python, SQL, Power BI, Tableau, Azure, AWS, and tools like PySpark and Docker.<br>
-📊 Passionate about building practical ML solutions and exploring real-world analytics problems.<br>
-🔍 Currently seeking opportunities to apply my skills in data-driven projects and contribute to innovative teams.</p>
+**Master of Science — Data Science**
+University of Michigan-Dearborn, USA · GPA: 3.9/4.0
 
+**Bachelor of Technology — Computer Science & Engineering (AI/ML)**
+Sri Ramachandra Institute of Higher Education and Research, Chennai, India · GPA: 9.2/10 · Top 5% of university
 
-###
-<h2 align="left">🤹My hands-on experience spans:</h2> <br>
-<small>
-✔ 97%-accurate autism detection (hybrid data balancing that outperformed SMOTE)<br>
-✔ Alzheimer's predictor using multimodal speech data + custom DL architectures<br>
-✔ Novel data balancing method that reduced false negatives by 40% in neurological disorders.<br>
-✔ Survived data labeling trenches (200+ annotations processed)<br>
-✔ Collected time-series data with InfluxDB and built Grafana dashboards for monitoring<br>
-✔ Battle-tested APIs with k6/Postman <br>
-✔ Designed chatbot UIs that boosted engagement with ReactJS</small>
+---
 
-###
+<h2 align="left">👩‍💻 About Me</h2>
 
-<p align="left">📚 I'm currently learning Microsft Azure Cloud services and preparing to give my DP-100<br>🎯 Goals: Learn and contribute to open-source tools in data engineering.
-Improve skills in MLOps, GenAI, and real-time analytics.<br>🎲 Fun fact: I studied AI on a medical campus — so yes, I’ve worked tons on medical databases.
-I enjoy breaking down complex workflows into simple, automatable pieces.
-I sometimes visualize my to-do list as a SQL query (SELECT * FROM life WHERE status = 'pending';)</p>
+- 🔭 Currently working as a **Data Scientist at ChronicGPT** — building WhatsApp AI integrations, Oura Ring OAuth pipelines, and a multimodal meal analysis agent (MealDecode) on AWS Bedrock
+- 🏗️ Recently built a **Smart Property Management Analytics Platform on Microsoft Fabric** — end-to-end data engineering, SQL warehouse, Power BI, and ML
+- 📄 Co-authored **2 published SAE Technical Papers** on edge-AI vehicle safety (flat tire detection + battery fire detection)
+- 🎯 Currently learning: Microsoft Fabric, AWS Bedrock, Agentic AI, MCP
+- 💬 Ask me about: PySpark, Power BI, MLflow, LLMs, AWS Bedrock
+- 🔍 Seeking entry-level roles in Data Science, Data Analytics, and AI
 
-###
+---
 
-<h2 align="left">Tools and Technologies💻</h2>
+<h2 align="left">🚀 Featured Projects</h2>
 
-###
+### 🏢 Smart Property Management Platform — Microsoft Fabric
+End-to-end analytics platform covering data engineering, SQL warehousing, Power BI reporting, and ML prediction.
+- PySpark notebooks → Delta tables in OneLake
+- Star schema warehouse with 5 analytical SQL queries (CTEs, window functions, DENSE_RANK)
+- Power BI executive dashboard with DAX measures and Direct Lake connection
+- Random Forest late payment predictor — AUC 0.85, 85.2% accuracy, MLflow tracked
+
+### 🚗 Edge-AI Vehicle Safety (SAE Published)
+Co-authored 2 SAE Technical Papers on edge-AI for vehicle safety systems:
+- Flat tire detection using vibration signal classification
+- Battery fire and smoke detection for EVs
+
+### 🧠 Autism Detection Model
+97%-accurate autism detection using hybrid data balancing — outperformed SMOTE, reduced false negatives by 40%
+
+### 🗣️ Alzheimer's Predictor
+Multimodal speech data + custom deep learning architecture for early Alzheimer's detection
+
+---
+
+<h2 align="left">🛠️ Tools & Technologies</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
   <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql" />
   <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="pyspark" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" />
   <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />
   <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original-wordmark.svg" height="40" alt="keras logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
   <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="C logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
   <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="R programming logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="40" alt="numpy" />
   <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="sql logo" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="powerbi" />
   <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="tableau" />
   <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="azure logo" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="excel" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" height="40" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="40" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-plain-wordmark.svg" height="40" alt="matplotlib logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="pyspark logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="40" alt="ibm spss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original-wordmark.svg" height="40" alt="splunk logo" />
-  <img width="12" />
-  <!-- Custom icons (manually hosted or added if no devicon available) -->
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="excel logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="powerbi logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="tableau logo" />
-  <img width="12" />
-<img src="https://img.icons8.com/color/48/sap.png" height="40" alt="SAP Analytics Cloud logo" />
-<img width="12" />
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original-wordmark.svg" height="40" alt="keras" />
 </div>
 
-###
+---
+
+<h2 align="left">📚 Currently Learning</h2>
+
+- Microsoft Fabric (end-to-end data platform)
+- AWS Bedrock + Agentic AI
+- MLOps and real-time analytics
+- Preparing for DP-100 (Azure Data Scientist Associate)
+
+---
+
+<h2 align="left">✨ Fun Fact</h2>
+
+I studied AI on a medical campus — so yes, I've worked extensively on medical databases.
+I sometimes visualize my to-do list as a SQL query:
+```sql
+SELECT * FROM life WHERE status = 'pending';
+```
+
+---
+
+<p align="left">
+  <i>Open to entry-level Data Science, Data Analytics, and AI roles. Currently on OPT.</i>
+</p>
