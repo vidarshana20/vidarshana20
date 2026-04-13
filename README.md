@@ -21,7 +21,7 @@ Sri Ramachandra Institute of Higher Education and Research, Chennai, India · GP
 <h2 align="left">👩‍💻 About Me</h2>
 
 <p align="left">
-🔭 Data Scientist at <b>ChronicGPT</b> building WhatsApp AI integrations, Oura Ring OAuth pipelines, and a multimodal meal analysis agent (MealDecode) on AWS Bedrock<br><br>
+🔭 Data Scientist at <b>ChronicGPT</b> building WhatsApp AI integrations, Oura Ring OAuth pipelines, and a multimodal analysis agent on AWS Bedrock<br><br>
 📄 Co-authored <b>2 published SAE Technical Papers</b> on edge-AI vehicle safety (flat tire detection and battery fire/smoke detection)<br><br>
 🏗️ Recently built a <b>Smart Property Management Analytics Platform on Microsoft Fabric</b> covering data engineering, SQL warehouse, Power BI, and ML<br><br>
 🎯 Currently learning: Microsoft Fabric, AWS Bedrock, Agentic AI, MLOps<br><br>
