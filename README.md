@@ -166,4 +166,4 @@ SELECT * FROM life WHERE status = 'pending' ORDER BY priority DESC;
 
 <br>
 
-<p align="left"><i>Open to entry-level Data Science, Data Analytics, and AI roles. Currently on OPT.</i></p>
+<p align="left"><i>Open to entry-level Data Science, Data Analytics, and AI roles. Currently on OPT and open to Relocation.</i></p>
